@@ -15,7 +15,9 @@ namespace Test_Rep_app
             s = Console.ReadLine(); x = int.Parse(s);
             Console.WriteLine("Ievadiet y:");
             s = Console.ReadLine(); y = int.Parse(s);
-            z = x * y;            
+            z = x * y;
+            for (int i = 0; i <= z; i++)
+                Console.Write("*");
             Console.ReadLine();
         }
     }
