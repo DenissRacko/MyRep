@@ -9,6 +9,13 @@ namespace Test_Rep_app
     {
         static void Main(string[] args)
         {
+            int x, y;
+            string s;
+            Console.WriteLine("Ievadiet x:");
+            s = Console.ReadLine(); x = int.Parse(s);
+            Console.WriteLine("Ievadiet y:");
+            s = Console.ReadLine(); y = int.Parse(s);
+
         }
     }
 }

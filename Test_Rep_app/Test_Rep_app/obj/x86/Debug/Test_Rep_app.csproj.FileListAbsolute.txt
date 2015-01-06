@@ -1,0 +1,5 @@
+D:\MyRepos\Test_Rep_app\Test_Rep_app\bin\Debug\Test_Rep_app.exe
+D:\MyRepos\Test_Rep_app\Test_Rep_app\bin\Debug\Test_Rep_app.pdb
+D:\MyRepos\Test_Rep_app\Test_Rep_app\obj\x86\Debug\Test_Rep_app.csprojResolveAssemblyReference.cache
+D:\MyRepos\Test_Rep_app\Test_Rep_app\obj\x86\Debug\Test_Rep_app.exe
+D:\MyRepos\Test_Rep_app\Test_Rep_app\obj\x86\Debug\Test_Rep_app.pdb
