@@ -1,0 +1,2 @@
+Konsoles aplikacija
+Var ievadit mainigos
