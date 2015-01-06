@@ -16,6 +16,8 @@ namespace Test_Rep_app
             Console.WriteLine("Ievadiet y:");
             s = Console.ReadLine(); y = int.Parse(s);
             w = x + y;
+            Console.WriteLine("x un y summa ir: " + w.ToString());
+            Console.ReadLine();
         }
     }
 }
